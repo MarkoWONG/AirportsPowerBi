@@ -1,0 +1,1 @@
+SELECT Airport, sum(Passengers) as "Passengers" FROM airports group by Airport;

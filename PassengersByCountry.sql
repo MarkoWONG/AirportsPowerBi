@@ -1,0 +1,1 @@
+SELECT Country, sum(Passengers) as "Passengers" FROM airports group by Country;
