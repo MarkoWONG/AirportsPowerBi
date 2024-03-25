@@ -1,5 +1,6 @@
 ![image](https://github.com/MarkoWONG/AirportsPowerBi/assets/79550698/3056d6ad-571b-444a-abde-728d19aa93b3)# AirportsPowerBi
 A quick project using Power Bi and mySQL analysising the airport data from kaggle.com
+Data: https://www.kaggle.com/datasets/khaiid/most-crowded-airports/data
 
 1. Obtained dataset from kaggle.com about airport's passenger data
 2. Create mySQL Database by converting raw data in excel format to SQL (CreateTable.sql)
