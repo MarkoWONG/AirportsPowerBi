@@ -1,5 +1,8 @@
-![image](https://github.com/MarkoWONG/AirportsPowerBi/assets/79550698/3056d6ad-571b-444a-abde-728d19aa93b3)# AirportsPowerBi
-A quick project using Power Bi and mySQL analysising the airport data from kaggle.com
+# AirportsPowerBi
+![image](https://github.com/MarkoWONG/AirportsPowerBi/assets/79550698/c544cd29-a3e4-4a2f-b759-a54bd1ad3a5f)
+
+Data Analyst on the Top 50 Busiest Airport around the world.
+Made using Power Bi and mySQL analysising the airport data from kaggle.com
 Data: https://www.kaggle.com/datasets/khaiid/most-crowded-airports/data
 
 1. Obtained dataset from kaggle.com about airport's passenger data
@@ -7,5 +10,3 @@ Data: https://www.kaggle.com/datasets/khaiid/most-crowded-airports/data
 3. Cleaned and prepared data for PowerBI
 4. Created PowerBI Report using data from mySQL Database
 5. Doubled checked results in PowerBi by comparing to SQL queries
-6. ![image](https://github.com/MarkoWONG/AirportsPowerBi/assets/79550698/d81e35c3-466e-4db3-b444-055786094fa6)
- 
