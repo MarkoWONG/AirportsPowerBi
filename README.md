@@ -10,3 +10,6 @@ Data: https://www.kaggle.com/datasets/khaiid/most-crowded-airports/data
 3. Prepared and cleaned data for PowerBI
 4. Created PowerBI Report using data from mySQL Database
 5. Doubled checked results in PowerBi by comparing to SQL queries
+![image](https://github.com/MarkoWONG/AirportsPowerBi/assets/79550698/c3e98b73-3ced-4ea9-ab67-5979546cd719)
+![image](https://github.com/MarkoWONG/AirportsPowerBi/assets/79550698/075c4b22-0ab3-4500-9ee8-4a4ad530ea8c)
+![image](https://github.com/MarkoWONG/AirportsPowerBi/assets/79550698/6a61e06c-f13a-46d3-a98c-16c4ab0cb06b)
